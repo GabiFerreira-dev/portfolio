@@ -1,0 +1,106 @@
+.principal {
+    font-family: 'Poppins', sans-serif;  
+    background: linear-gradient(#FFFFFF 50%, cadetblue); 
+
+}
+
+.menu {
+    text-align: center;
+    padding: 2%;
+    margin-bottom: 5%;
+}
+
+nav li {
+    display: inline;
+    margin-left: 25px;
+    width: 20%;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: grey;
+    padding-left: 3%;
+
+}
+
+nav a:hover {
+    color: olivedrab;
+    text-decoration: underline;
+}
+
+/* .caixa {
+	width: 940px;
+	margin: 0 auto;
+    padding-left: 10%;
+} */
+
+/* .caixa h1 {
+    padding-left: 90%;
+} */
+
+/* .caixa img {
+    max-width: 300px;
+    border-radius: 20%;
+} */
+
+.conteudo {
+    margin: 10%;    
+}
+
+.profissao {
+    color: violet;
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 5%;
+}
+
+.apresentacao {
+    font-size: 45px;
+    padding-top: 2%;
+    font-weight: bolder;
+    color: grey;
+    white-space: nowrap;
+    padding-bottom: 2%;
+}
+
+.competencias {
+    padding: 2% 0%;
+    font-weight: bold;
+    color: grey;
+    padding-bottom: 10%;
+}
+
+.curriculo-btn {
+    border-radius: 20%;
+    font-weight: bold;
+    color: white;
+    border-radius: 500px;
+    background-color: #cccccc;
+    padding: 16px 40px;
+    text-decoration: none;
+    
+}
+
+.curriculo-btn:hover{
+    font-size: large;
+    background-color: violet;
+    cursor: pointer;
+}
+
+.copyright {
+    bottom: 0;
+    text-align: center;
+    height: 40px;
+    position: 50%;
+    width: 100%;
+    color: grey;
+    font-size: 12px;
+}
+
+.minha-foto{
+    width: 20%;
+    float: right;
+    margin: 0 0 0 5px ;
+    border-radius: 20%;
+}

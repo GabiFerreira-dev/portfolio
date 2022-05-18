@@ -1,0 +1,69 @@
+.principal {
+    font-family: 'Poppins', sans-serif;    
+    background: linear-gradient(#FFFFFF 50%, cadetblue);  
+}
+
+.menu {
+    text-align: center;
+    padding: 2%;
+    margin-bottom: 5%;
+}
+
+nav li {
+    display: inline;
+    margin-left: 25px;
+    width: 20%;
+
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: grey;
+    padding-left: 3%;
+
+}
+
+nav a:hover {
+    color: olivedrab;
+    text-decoration: underline;
+}
+
+.titulo{
+    text-align: center;
+    color: violet;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.sobre{
+    display: block;
+    text-align: left;
+    padding: 2%;
+    margin: 2% 32%;
+    color: grey;    
+    border: 10px;
+    border-style: outset;
+}
+
+.mapa { 
+    padding: 5% 35%;
+    margin: 0%;
+    padding: 2%;
+    margin: 2% 32%;
+}
+
+.mapa h3{
+    color: grey;
+}
+
+.copyright {
+    bottom: 0;
+    text-align: center;
+    height: 40px;
+    position: 50%;
+    width: 100%;
+    color: grey;
+    font-size: 12px;
+}
+

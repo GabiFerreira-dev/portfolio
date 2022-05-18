@@ -104,3 +104,9 @@ nav a:hover {
     margin: 0 0 0 5px ;
     border-radius: 20%;
 }
+
+.erro {
+    color: grey;
+    font-size: 12px;
+    text-align: center;
+}

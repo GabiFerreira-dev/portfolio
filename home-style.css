@@ -107,6 +107,7 @@ nav a:hover {
 
 .erro {
     color: grey;
-    font-size: 12px;
+    font-size: 30px;
     text-align: center;
+    font-family: 'Poppins', sans-serif;  
 }

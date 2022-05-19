@@ -25,15 +25,16 @@ nav a {
 }
 
 nav a:hover {
-    color: olivedrab;
+    color: cadetblue;
     text-decoration: underline;
+    font-weight: bolder;
 }
 
 .titulo{
     text-align: center;
     color: violet;
     font-weight: bolder;
-    font-size: larger;
+    font-size: 30px;
 }
 
 .sobre{
@@ -44,6 +45,7 @@ nav a:hover {
     color: grey;    
     border: 10px;
     border-style: outset;
+    box-shadow: 20px 20px 40px 10px grey;
 }
 
 .mapa { 

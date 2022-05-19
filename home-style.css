@@ -112,3 +112,30 @@ nav a:hover {
     text-align: center;
     font-family: 'Poppins', sans-serif;  
 }
+
+@media screen and (max-width: 480px) {
+    .principal, .conteudo, .curriculo-btn{
+        background-attachment: fixed;
+        height: 50vh;
+        line-height: 30vw;
+        width: min-content;
+    }
+
+    .menu {
+        text-align: center;
+        padding: 10%;
+    }
+
+    .apresentacao {
+        padding-right: 110%;
+    }
+
+    .copyright {
+        text-align: center;
+        margin: 110% 0;
+    }
+
+    .minha-foto {
+        margin: -20% 10%;
+    }
+}   

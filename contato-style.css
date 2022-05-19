@@ -97,3 +97,17 @@ form label, form legend {
     color: grey;
     font-size: 12px;
 }
+
+@media screen and (max-width: 480px) {
+    .principal, .form, .form p, .form label, .form legend, .submit{
+        background-attachment: fixed;
+        width: max-content;
+        line-height: 20vw;
+        
+    }
+    .menu, .copyright {
+        padding: auto;
+        text-align: center;
+        padding: 10%
+    }
+}
